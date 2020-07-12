@@ -1,0 +1,4 @@
+pre_build_tasks:
+  aaa_task:
+  bbb_task:
+  ccc_task:
